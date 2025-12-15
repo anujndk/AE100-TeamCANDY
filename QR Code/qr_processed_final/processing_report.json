@@ -1,0 +1,2036 @@
+{
+  "total_images_processed": 126,
+  "valid_qr_codes": 16,
+  "garbage_images": 110,
+  "fusion_source_count": 16,
+  "pyzbar_available": true,
+  "valid_qr_range": [
+    26,
+    49
+  ],
+  "detection_criteria": {
+    "filename_range": "QR_026-049",
+    "edge_density_min": 0.01,
+    "green_density_min": 0.035,
+    "contrast_max": 70,
+    "pattern_variance_min": 500
+  },
+  "detections": [
+    {
+      "filename": "QR_001_2025-12-10_12-45-06-397_unscanned.jpg",
+      "qr_number": 1,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0389227128262889,
+        "green_density": 0.07859049479166667,
+        "contrast": 62.28169018675436,
+        "pattern_variance": 1208.4721569994213,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_001_2025-12-10_12-46-38-386_unscanned.jpg",
+      "qr_number": 1,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.214287842408844,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005669789512416648,
+        "green_density": 0.03779296875,
+        "contrast": 66.86493026473772,
+        "pattern_variance": 1180.3853441182662,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_001_2025-12-10_12-59-28-764_unscanned.jpg",
+      "qr_number": 1,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.18194837838848582,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004396485666103634,
+        "green_density": 0.030123697916666668,
+        "contrast": 55.90216233896682,
+        "pattern_variance": 832.761883582439,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_001_2025-12-10_13-00-51-178_unscanned.jpg",
+      "qr_number": 1,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.14079853842906723,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0029382957792762916,
+        "green_density": 0.021009114583333332,
+        "contrast": 57.761033035332325,
+        "pattern_variance": 854.9663637749895,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_001_2025-12-10_13-01-50-532_unscanned.jpg",
+      "qr_number": 1,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.19001742439905694,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004225350411056769,
+        "green_density": 0.03341796875,
+        "contrast": 57.874856131102774,
+        "pattern_variance": 877.788236974958,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_002_2025-12-10_12-46-39-417_unscanned.jpg",
+      "qr_number": 2,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.19468848844361764,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004234853954781033,
+        "green_density": 0.035556640625,
+        "contrast": 67.1955169002901,
+        "pattern_variance": 1147.3482576354693,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_002_2025-12-10_12-59-32-112_unscanned.jpg",
+      "qr_number": 2,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.16463850363293958,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0030167872229899927,
+        "green_density": 0.027893880208333333,
+        "contrast": 56.1412411457922,
+        "pattern_variance": 841.1039249973696,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_002_2025-12-10_13-00-52-561_unscanned.jpg",
+      "qr_number": 2,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.19012317772767914,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004207423001046564,
+        "green_density": 0.033460286458333335,
+        "contrast": 57.32572269332705,
+        "pattern_variance": 861.5519903864162,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_002_2025-12-10_13-01-57-297_unscanned.jpg",
+      "qr_number": 2,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.13400233981152598,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.002292840103327768,
+        "green_density": 0.020830078125,
+        "contrast": 58.31478997415906,
+        "pattern_variance": 840.4533051880787,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_003_2025-12-10_12-46-40-769_unscanned.jpg",
+      "qr_number": 3,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.22494865741834041,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005937238120791555,
+        "green_density": 0.04080729166666667,
+        "contrast": 67.01641918711849,
+        "pattern_variance": 1167.2238419988953,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_003_2025-12-10_12-59-34-358_unscanned.jpg",
+      "qr_number": 3,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.11421151262440533,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0015034027621228805,
+        "green_density": 0.015908203125,
+        "contrast": 56.600786566352525,
+        "pattern_variance": 817.9469679892677,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_003_2025-12-10_13-00-55-168_unscanned.jpg",
+      "qr_number": 3,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.1851464804087059,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004614967627033367,
+        "green_density": 0.030953776041666665,
+        "contrast": 57.45395653706022,
+        "pattern_variance": 861.1380922314289,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_003_2025-12-10_13-01-59-475_unscanned.jpg",
+      "qr_number": 3,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.18524477556530292,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0035044619520649763,
+        "green_density": 0.03386067708333333,
+        "contrast": 58.53609736515889,
+        "pattern_variance": 882.472590608165,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_004_2025-12-10_12-46-45-138_unscanned.jpg",
+      "qr_number": 4,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.19579441670482947,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004254414068498209,
+        "green_density": 0.03566731770833333,
+        "contrast": 67.2848937540193,
+        "pattern_variance": 1165.1332834561765,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_004_2025-12-10_12-59-35-120_unscanned.jpg",
+      "qr_number": 4,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.15451200470418344,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0029692337703636183,
+        "green_density": 0.024690755208333335,
+        "contrast": 56.38116364563152,
+        "pattern_variance": 855.0878614601746,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_004_2025-12-10_13-01-05-631_unscanned.jpg",
+      "qr_number": 4,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.17205985621817305,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0033362934702469826,
+        "green_density": 0.029632161458333334,
+        "contrast": 57.61225801842036,
+        "pattern_variance": 881.769032991109,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_004_2025-12-10_13-02-09-601_unscanned.jpg",
+      "qr_number": 4,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.1279625179846267,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005101739647075992,
+        "green_density": 0.019153645833333333,
+        "contrast": 67.08390615979062,
+        "pattern_variance": 616.283497421612,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_005_2025-12-10_12-46-46-035_unscanned.jpg",
+      "qr_number": 5,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.19572573883595662,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004239744408615149,
+        "green_density": 0.0356640625,
+        "contrast": 67.29688429032107,
+        "pattern_variance": 1166.780798108954,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_005_2025-12-10_12-59-36-142_unscanned.jpg",
+      "qr_number": 5,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.12405928086131854,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.001873316077552456,
+        "green_density": 0.017978515625,
+        "contrast": 56.31052186897975,
+        "pattern_variance": 822.4836389165088,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_005_2025-12-10_13-01-09-944_unscanned.jpg",
+      "qr_number": 5,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.12751534318242833,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0024473352233559094,
+        "green_density": 0.01776692708333333,
+        "contrast": 57.796834235558386,
+        "pattern_variance": 868.9341101433607,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_005_2025-12-10_13-02-09-925_unscanned.jpg",
+      "qr_number": 5,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.33236357791546095,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005278461318245824,
+        "green_density": 0.109912109375,
+        "contrast": 50.21445351867707,
+        "pattern_variance": 348.2412390414562,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_006_2025-12-10_12-46-49-047_unscanned.jpg",
+      "qr_number": 6,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.1998380916094657,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005917782656660601,
+        "green_density": 0.032620442708333336,
+        "contrast": 67.12463080468011,
+        "pattern_variance": 1185.7960306065866,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_006_2025-12-10_12-59-36-893_unscanned.jpg",
+      "qr_number": 6,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.11256041361817196,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0011592868459111587,
+        "green_density": 0.016292317708333334,
+        "contrast": 56.63039968980544,
+        "pattern_variance": 812.4681700975906,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_006_2025-12-10_13-01-10-323_unscanned.jpg",
+      "qr_number": 6,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.18792134975258593,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0047323368174328586,
+        "green_density": 0.03125651041666667,
+        "contrast": 57.36959829266964,
+        "pattern_variance": 881.011141422822,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_006_2025-12-10_13-02-14-247_unscanned.jpg",
+      "qr_number": 6,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.014760802866180303,
+        "green_density": 0.11876953125,
+        "contrast": 35.26839445245893,
+        "pattern_variance": 172.14446139967382,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_007_2025-12-10_12-46-50-388_unscanned.jpg",
+      "qr_number": 7,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.19707787219377032,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005841142574732397,
+        "green_density": 0.03208333333333333,
+        "contrast": 67.07177080956889,
+        "pattern_variance": 1171.8168398124474,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_007_2025-12-10_12-59-38-017_unscanned.jpg",
+      "qr_number": 7,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.16516572380007438,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0031439032886719526,
+        "green_density": 0.027884114583333335,
+        "contrast": 56.317621692219866,
+        "pattern_variance": 837.6560720812289,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_007_2025-12-10_13-01-10-931_unscanned.jpg",
+      "qr_number": 7,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.1542608351279914,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.002664284876116671,
+        "green_density": 0.025641276041666668,
+        "contrast": 57.637872844982766,
+        "pattern_variance": 875.748702645202,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_007_2025-12-10_13-02-18-817_unscanned.jpg",
+      "qr_number": 7,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.3811650980782004,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.009733105779189169,
+        "green_density": 0.093623046875,
+        "contrast": 35.78637398058278,
+        "pattern_variance": 222.9647072427399,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_008_2025-12-10_12-46-57-002_unscanned.jpg",
+      "qr_number": 8,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.3850071531847962,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.01296445698469795,
+        "green_density": 0.237314453125,
+        "contrast": 52.15996629455464,
+        "pattern_variance": 294.9111207170665,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_008_2025-12-10_12-59-39-185_unscanned.jpg",
+      "qr_number": 8,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.15016903177917018,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.003004741460049246,
+        "green_density": 0.023297526041666666,
+        "contrast": 56.456027742206984,
+        "pattern_variance": 851.5240836418877,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_008_2025-12-10_13-01-13-015_unscanned.jpg",
+      "qr_number": 8,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.2005721148833163,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004039182200408825,
+        "green_density": 0.03753580729166667,
+        "contrast": 57.64311646460558,
+        "pattern_variance": 847.8278358946234,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_008_2025-12-10_13-02-19-145_unscanned.jpg",
+      "qr_number": 8,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.17120398905510217,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004933945521501389,
+        "green_density": 0.015061848958333334,
+        "contrast": 11.439789201041174,
+        "pattern_variance": 83.36821561289982,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_009_2025-12-10_12-46-57-570_unscanned.jpg",
+      "qr_number": 9,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.31189462248577193,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004511809510118781,
+        "green_density": 0.2530240885416667,
+        "contrast": 56.165622130083534,
+        "pattern_variance": 199.02370086858164,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_009_2025-12-10_13-01-17-970_unscanned.jpg",
+      "qr_number": 9,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.19044471750917835,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0046507033337036055,
+        "green_density": 0.032210286458333334,
+        "contrast": 57.67588943628853,
+        "pattern_variance": 895.234202165667,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_009_2025-12-10_13-02-23-005_unscanned.jpg",
+      "qr_number": 9,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.28688614537769785,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.023602727232878443,
+        "green_density": 0.015442708333333333,
+        "contrast": 61.87494068739,
+        "pattern_variance": 3313.5576060671824,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_010_2025-12-10_12-47-00-551_unscanned.jpg",
+      "qr_number": 10,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.01811455580113325,
+        "green_density": 0.18995442708333332,
+        "contrast": 63.01298899380211,
+        "pattern_variance": 638.666521322075,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_010_2025-12-10_13-01-20-040_unscanned.jpg",
+      "qr_number": 10,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.1543229455690817,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0031974753687204803,
+        "green_density": 0.02447265625,
+        "contrast": 57.925204960256075,
+        "pattern_variance": 878.7629357470538,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_010_2025-12-10_13-02-27-412_unscanned.jpg",
+      "qr_number": 10,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.3419781784950185,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0031094072116531245,
+        "green_density": 0.15572265625,
+        "contrast": 35.79843898480089,
+        "pattern_variance": 475.1580366903409,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_011_2025-12-10_12-47-02-010_unscanned.jpg",
+      "qr_number": 11,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.23263204146389824,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.006819821251019611,
+        "green_density": 0.03264973958333333,
+        "contrast": 20.386900904636462,
+        "pattern_variance": 205.8501607875631,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_011_2025-12-10_13-01-21-694_unscanned.jpg",
+      "qr_number": 11,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.1904691849697254,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004401419511229599,
+        "green_density": 0.033219401041666666,
+        "contrast": 57.78128630100201,
+        "pattern_variance": 868.6225223042932,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_011_2025-12-10_13-02-34-918_unscanned.jpg",
+      "qr_number": 11,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.04230100906704434,
+        "green_density": 0.10812174479166667,
+        "contrast": 43.545185344246036,
+        "pattern_variance": 948.6890981018519,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_012_2025-12-10_12-47-05-387_unscanned.jpg",
+      "qr_number": 12,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.02349023658497805,
+        "green_density": 0.07364583333333333,
+        "contrast": 64.45001402414005,
+        "pattern_variance": 916.3115877856691,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_012_2025-12-10_13-01-23-340_unscanned.jpg",
+      "qr_number": 12,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.2280728496442005,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005727416551228814,
+        "green_density": 0.04163411458333333,
+        "contrast": 57.453301244122976,
+        "pattern_variance": 890.0822897166983,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_012_2025-12-10_13-02-35-105_unscanned.jpg",
+      "qr_number": 12,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.05582418678933572,
+        "green_density": 0.10293294270833334,
+        "contrast": 46.597178116400244,
+        "pattern_variance": 1215.3258620667611,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_013_2025-12-10_12-47-05-716_unscanned.jpg",
+      "qr_number": 13,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.2610410191846651,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.019134993065561077,
+        "green_density": 0.020322265625,
+        "contrast": 61.539807545559285,
+        "pattern_variance": 1006.4520454608587,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_013_2025-12-10_13-02-35-894_unscanned.jpg",
+      "qr_number": 13,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.03163714050910271,
+        "green_density": 0.12298502604166667,
+        "contrast": 40.354666299941265,
+        "pattern_variance": 806.6576621159512,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_014_2025-12-10_12-47-10-724_unscanned.jpg",
+      "qr_number": 14,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.01751898990109372,
+        "green_density": 0.30208658854166665,
+        "contrast": 62.72192903395,
+        "pattern_variance": 719.3138202961911,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_014_2025-12-10_13-02-36-083_unscanned.jpg",
+      "qr_number": 14,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.34745012467421516,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004138517629592602,
+        "green_density": 0.18603190104166667,
+        "contrast": 35.10342358340154,
+        "pattern_variance": 397.4157702854061,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_015_2025-12-10_12-47-14-773_unscanned.jpg",
+      "qr_number": 15,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.3833746150660326,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.011346791338186078,
+        "green_density": 0.20685221354166666,
+        "contrast": 50.674941674263,
+        "pattern_variance": 495.99489240030516,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_015_2025-12-10_13-02-39-301_unscanned.jpg",
+      "qr_number": 15,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.029946110397792308,
+        "green_density": 0.114638671875,
+        "contrast": 62.888703922682836,
+        "pattern_variance": 1145.7453903082912,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_016_2025-12-10_12-47-28-537_unscanned.jpg",
+      "qr_number": 16,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.2957932619007169,
+        "green_density": 0.10016276041666666,
+        "contrast": 59.4018704484647,
+        "pattern_variance": 2334.5190442850376,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_016_2025-12-10_13-02-43-431_unscanned.jpg",
+      "qr_number": 16,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.3833708687443733,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.032148556230485834,
+        "green_density": 0.025550130208333334,
+        "contrast": 61.311221919718484,
+        "pattern_variance": 1255.8657117205914,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_017_2025-12-10_12-47-36-216_unscanned.jpg",
+      "qr_number": 17,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.18199462009239384,
+        "green_density": 0.09488606770833333,
+        "contrast": 54.44562109665888,
+        "pattern_variance": 1752.458371587226,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_017_2025-12-10_13-02-44-226_unscanned.jpg",
+      "qr_number": 17,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.053010337235078295,
+        "green_density": 0.10387044270833333,
+        "contrast": 50.01197643828724,
+        "pattern_variance": 1484.8609594007785,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_018_2025-12-10_12-47-39-735_unscanned.jpg",
+      "qr_number": 18,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.2014401522758084,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005619008088000671,
+        "green_density": 0.03379557291666667,
+        "contrast": 65.33607499665251,
+        "pattern_variance": 1128.5682299145099,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_018_2025-12-10_13-02-44-693_unscanned.jpg",
+      "qr_number": 18,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.34711019712918534,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0038630297208908752,
+        "green_density": 0.12126627604166666,
+        "contrast": 35.71781908840093,
+        "pattern_variance": 459.91032151383627,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_019_2025-12-10_12-47-43-727_unscanned.jpg",
+      "qr_number": 19,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.18778316463793104,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005128694147409782,
+        "green_density": 0.030348307291666668,
+        "contrast": 64.4809394644408,
+        "pattern_variance": 1118.2830252538406,
+        "dark_corners": 0
+      }
+    },
+    {
+      "filename": "QR_019_2025-12-10_13-02-45-305_unscanned.jpg",
+      "qr_number": 19,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.04017241266064647,
+        "green_density": 0.1337890625,
+        "contrast": 36.16587173147075,
+        "pattern_variance": 545.2838803716857,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_020_2025-12-10_12-47-46-096_unscanned.jpg",
+      "qr_number": 20,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.2132269973581636,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.00510089904714765,
+        "green_density": 0.038531901041666664,
+        "contrast": 64.06696204996082,
+        "pattern_variance": 1105.9750859830071,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_020_2025-12-10_13-02-45-629_unscanned.jpg",
+      "qr_number": 20,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.042198955301047766,
+        "green_density": 0.122685546875,
+        "contrast": 39.23033055118634,
+        "pattern_variance": 842.2692688749473,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_021_2025-12-10_12-47-46-815_unscanned.jpg",
+      "qr_number": 21,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.19707550500592383,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004347031504732407,
+        "green_density": 0.035947265625,
+        "contrast": 64.30336234181652,
+        "pattern_variance": 1055.98823627762,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_021_2025-12-10_13-02-45-815_unscanned.jpg",
+      "qr_number": 21,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.036363061371009635,
+        "green_density": 0.13476236979166667,
+        "contrast": 39.049512887581706,
+        "pattern_variance": 780.8093905902778,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_022_2025-12-10_12-47-47-711_unscanned.jpg",
+      "qr_number": 22,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.21356674412332202,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005105792904220342,
+        "green_density": 0.03857747395833333,
+        "contrast": 64.00213897032364,
+        "pattern_variance": 1107.6076397361635,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_022_2025-12-10_13-02-46-000_unscanned.jpg",
+      "qr_number": 22,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.03793741400016118,
+        "green_density": 0.12500651041666666,
+        "contrast": 39.72970457174777,
+        "pattern_variance": 914.2697822445813,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_023_2025-12-10_12-47-51-244_unscanned.jpg",
+      "qr_number": 23,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.21978422321969385,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005759409546274788,
+        "green_density": 0.03927734375,
+        "contrast": 63.94430793362,
+        "pattern_variance": 1084.7031297030196,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_023_2025-12-10_13-02-47-335_unscanned.jpg",
+      "qr_number": 23,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.06127961311030958,
+        "green_density": 0.118564453125,
+        "contrast": 47.973406248954035,
+        "pattern_variance": 1181.511776841856,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_024_2025-12-10_12-47-56-578_unscanned.jpg",
+      "qr_number": 24,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.21427528447605318,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005079692616769199,
+        "green_density": 0.03892252604166667,
+        "contrast": 63.93043256329661,
+        "pattern_variance": 1100.973248309133,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_024_2025-12-10_13-02-47-938_unscanned.jpg",
+      "qr_number": 24,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.016842146155756153,
+        "green_density": 0.133603515625,
+        "contrast": 48.08431599359369,
+        "pattern_variance": 761.5878065690762,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_025_2025-12-10_12-47-57-091_unscanned.jpg",
+      "qr_number": 25,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.21114453381633286,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004375070787362387,
+        "green_density": 0.04010091145833333,
+        "contrast": 64.18925870976771,
+        "pattern_variance": 1073.162294826652,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_025_2025-12-10_13-02-48-122_unscanned.jpg",
+      "qr_number": 25,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.04475825281951509,
+        "green_density": 0.10373697916666667,
+        "contrast": 52.92454805326327,
+        "pattern_variance": 1065.8215437039667,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_026_2025-12-10_12-47-57-801_unscanned.jpg",
+      "qr_number": 26,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5206807873450128,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005734954724675277,
+        "green_density": 0.03961263020833333,
+        "contrast": 63.946675044347195,
+        "pattern_variance": 1085.5572103056609,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_026_2025-12-10_13-02-48-447_unscanned.jpg",
+      "qr_number": 26,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.9181509676991805,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.07443146942721043,
+        "green_density": 0.11142252604166666,
+        "contrast": 51.02260004126621,
+        "pattern_variance": 984.9695119094592,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_027_2025-12-10_12-47-59-803_unscanned.jpg",
+      "qr_number": 27,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5197107314812477,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005677888369418552,
+        "green_density": 0.039498697916666665,
+        "contrast": 64.35333000034201,
+        "pattern_variance": 1095.0351910306188,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_027_2025-12-10_13-02-50-240_unscanned.jpg",
+      "qr_number": 27,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.9190255934854671,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.07465373749105629,
+        "green_density": 0.101103515625,
+        "contrast": 56.68208456017303,
+        "pattern_variance": 1892.3507890772307,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_028_2025-12-10_12-48-00-493_unscanned.jpg",
+      "qr_number": 28,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5164875457942111,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004973566875816097,
+        "green_density": 0.04026041666666667,
+        "contrast": 64.58805091419546,
+        "pattern_variance": 1095.3752713294402,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_028_2025-12-10_13-02-50-987_unscanned.jpg",
+      "qr_number": 28,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.8581700012271372,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.030716659764898836,
+        "green_density": 0.09263671875,
+        "contrast": 48.92131414325922,
+        "pattern_variance": 1144.3834709669613,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_029_2025-12-10_12-48-01-211_unscanned.jpg",
+      "qr_number": 29,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.521321350968901,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005403891930022881,
+        "green_density": 0.04087890625,
+        "contrast": 64.50827272970221,
+        "pattern_variance": 1084.8061149750104,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_029_2025-12-10_13-02-51-324_unscanned.jpg",
+      "qr_number": 29,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.8223532580819,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.02659448448694953,
+        "green_density": 0.11641927083333334,
+        "contrast": 49.0961856039427,
+        "pattern_variance": 1032.7687784498635,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_030_2025-12-10_12-48-03-749_unscanned.jpg",
+      "qr_number": 30,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5192753572346922,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005659950749692619,
+        "green_density": 0.03941080729166667,
+        "contrast": 64.44784390026508,
+        "pattern_variance": 1097.6472541077442,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_030_2025-12-10_13-02-51-805_unscanned.jpg",
+      "qr_number": 30,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.6839371365604607,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.010356585042031359,
+        "green_density": 0.15436848958333332,
+        "contrast": 43.081777961191975,
+        "pattern_variance": 427.39549998342795,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_031_2025-12-10_12-48-06-472_unscanned.jpg",
+      "qr_number": 31,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5191804156412952,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005650170692834032,
+        "green_density": 0.039427083333333335,
+        "contrast": 64.71851701412108,
+        "pattern_variance": 1105.188584022254,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_031_2025-12-10_13-02-51-990_unscanned.jpg",
+      "qr_number": 31,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.9307313993386622,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.04252815737500858,
+        "green_density": 0.12392578125,
+        "contrast": 44.51050956929184,
+        "pattern_variance": 1063.6281979321866,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_032_2025-12-10_12-48-11-084_unscanned.jpg",
+      "qr_number": 32,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5091380647853098,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005058508307441494,
+        "green_density": 0.037379557291666664,
+        "contrast": 64.42227028414638,
+        "pattern_variance": 1114.0788152322705,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_032_2025-12-10_13-02-52-456_unscanned.jpg",
+      "qr_number": 32,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.9234974561590157,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.04495790210897333,
+        "green_density": 0.09554036458333333,
+        "contrast": 44.951217758332945,
+        "pattern_variance": 905.123556673506,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_033_2025-12-10_12-48-12-445_unscanned.jpg",
+      "qr_number": 33,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5191086948541856,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005606144696991973,
+        "green_density": 0.0394921875,
+        "contrast": 64.43035857628018,
+        "pattern_variance": 1096.6294340143625,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_033_2025-12-10_13-02-52-641_unscanned.jpg",
+      "qr_number": 33,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.7768109552935886,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.022231806592862672,
+        "green_density": 0.11095703125,
+        "contrast": 43.83390206833828,
+        "pattern_variance": 544.614382673874,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_034_2025-12-10_12-48-13-283_unscanned.jpg",
+      "qr_number": 34,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5135573891446346,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005037299324634111,
+        "green_density": 0.038912760416666664,
+        "contrast": 64.31070633853264,
+        "pattern_variance": 1105.1449328224958,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_034_2025-12-10_13-02-52-974_unscanned.jpg",
+      "qr_number": 34,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.7000316692484596,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0132808194903201,
+        "green_density": 0.114296875,
+        "contrast": 50.017188867858806,
+        "pattern_variance": 525.08760060343,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_035_2025-12-10_12-48-16-175_unscanned.jpg",
+      "qr_number": 35,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5132831122595943,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005756087985424338,
+        "green_density": 0.03728190104166667,
+        "contrast": 64.36044580509959,
+        "pattern_variance": 1093.2001349037246,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_035_2025-12-10_13-02-53-582_unscanned.jpg",
+      "qr_number": 35,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.8763601104802379,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.04085967797331425,
+        "green_density": 0.07074869791666667,
+        "contrast": 60.90021960077778,
+        "pattern_variance": 1014.4978369452336,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_036_2025-12-10_12-48-18-219_unscanned.jpg",
+      "qr_number": 36,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5086632844515112,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004207127770100071,
+        "green_density": 0.039879557291666666,
+        "contrast": 64.64106479881204,
+        "pattern_variance": 1075.9341101596697,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_036_2025-12-10_13-02-54-048_unscanned.jpg",
+      "qr_number": 36,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.8283177551493228,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.03433770816249076,
+        "green_density": 0.06638997395833333,
+        "contrast": 60.67860728240461,
+        "pattern_variance": 1225.8683186253156,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_037_2025-12-10_12-48-20-983_unscanned.jpg",
+      "qr_number": 37,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.506922442885423,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.004826433811638096,
+        "green_density": 0.03777669270833333,
+        "contrast": 64.38141113338222,
+        "pattern_variance": 1071.4912574605428,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_037_2025-12-10_13-02-54-957_unscanned.jpg",
+      "qr_number": 37,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.7161103598753147,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.029733037033769928,
+        "green_density": 0.045810546875,
+        "contrast": 60.07165119868507,
+        "pattern_variance": 858.5104249731692,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_038_2025-12-10_12-48-24-085_unscanned.jpg",
+      "qr_number": 38,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5080738748197491,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005566941941022148,
+        "green_density": 0.035979817708333334,
+        "contrast": 64.58693612220596,
+        "pattern_variance": 1107.6463566406248,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_038_2025-12-10_13-02-55-142_unscanned.jpg",
+      "qr_number": 38,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.7820642452251829,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.04171522577629233,
+        "green_density": 0.04074869791666667,
+        "contrast": 61.283871448247396,
+        "pattern_variance": 1014.5508484514414,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_039_2025-12-10_12-48-28-426_unscanned.jpg",
+      "qr_number": 39,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.601739292261854,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0021456440792361063,
+        "green_density": 0.07004557291666667,
+        "contrast": 38.64342121164961,
+        "pattern_variance": 527.0264099571234,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_039_2025-12-10_13-02-55-609_unscanned.jpg",
+      "qr_number": 39,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.7038231796827865,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.03492304647979892,
+        "green_density": 0.028108723958333335,
+        "contrast": 61.862742583029586,
+        "pattern_variance": 1018.4619662805133,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_040_2025-12-10_12-48-47-260_unscanned.jpg",
+      "qr_number": 40,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.6152296739515778,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0050794084463480806,
+        "green_density": 0.230712890625,
+        "contrast": 72.10741167404449,
+        "pattern_variance": 651.2186544952126,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_040_2025-12-10_13-02-57-642_unscanned.jpg",
+      "qr_number": 40,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5137232553587145,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.007282772302647556,
+        "green_density": 0.037024739583333334,
+        "contrast": 59.27807279232853,
+        "pattern_variance": 673.9947125481376,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_041_2025-12-10_12-48-49-129_unscanned.jpg",
+      "qr_number": 41,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5134189340245546,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.006650195332281324,
+        "green_density": 0.035618489583333336,
+        "contrast": 44.63947292931524,
+        "pattern_variance": 384.12875274805344,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_041_2025-12-10_13-02-58-097_unscanned.jpg",
+      "qr_number": 41,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.780829378151922,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.023255339102775628,
+        "green_density": 0.10733723958333333,
+        "contrast": 60.77906170378552,
+        "pattern_variance": 1037.7975812763045,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_042_2025-12-10_12-48-50-404_unscanned.jpg",
+      "qr_number": 42,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.6022119144925723,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.01668458386696114,
+        "green_density": 0.048447265625,
+        "contrast": 76.01359285117307,
+        "pattern_variance": 616.3159298937289,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_042_2025-12-10_13-02-58-711_unscanned.jpg",
+      "qr_number": 42,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.7377923330992923,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0179430810730384,
+        "green_density": 0.15917643229166667,
+        "contrast": 59.84191287970723,
+        "pattern_variance": 928.9841285403513,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_043_2025-12-10_12-48-51-152_unscanned.jpg",
+      "qr_number": 43,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.7100346681553517,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0310437450244652,
+        "green_density": 0.044065755208333335,
+        "contrast": 76.05688123631427,
+        "pattern_variance": 948.0262906997053,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_043_2025-12-10_13-02-59-171_unscanned.jpg",
+      "qr_number": 43,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.7315649590834465,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.01669738259643689,
+        "green_density": 0.15791015625,
+        "contrast": 60.517500100789036,
+        "pattern_variance": 1026.9158683854166,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_044_2025-12-10_13-02-59-801_unscanned.jpg",
+      "qr_number": 44,
+      "is_valid": true,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.7720687790571683,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.02238644294729173,
+        "green_density": 0.08234700520833334,
+        "contrast": 62.02741871924616,
+        "pattern_variance": 1026.745322947969,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_045_2025-12-10_13-02-59-985_https___forms.gle_N6vwcJ2HbMj2.jpg",
+      "qr_number": 45,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5989259330160244,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.022963707081077665,
+        "green_density": 0.025126953125,
+        "contrast": 62.992139453697824,
+        "pattern_variance": 915.9641289709598,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_046_2025-12-10_13-03-01-165_unscanned.jpg",
+      "qr_number": 46,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.5462999313011943,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.006798283004879972,
+        "green_density": 0.035797526041666666,
+        "contrast": 16.35997218094127,
+        "pattern_variance": 163.60628914325545,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_047_2025-12-10_13-03-03-942_unscanned.jpg",
+      "qr_number": 47,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.6321637725515035,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.028318406899099695,
+        "green_density": 0.016728515625,
+        "contrast": 54.87892990823626,
+        "pattern_variance": 1101.5419386626684,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_048_2025-12-10_13-03-04-124_unscanned.jpg",
+      "qr_number": 48,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.6280836830892735,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.02830041312593725,
+        "green_density": 0.01603515625,
+        "contrast": 50.91631275025409,
+        "pattern_variance": 922.9994641611427,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_049_2025-12-10_13-03-04-595_unscanned.jpg",
+      "qr_number": 49,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.6568770436187097,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.00672946101277113,
+        "green_density": 0.08761067708333334,
+        "contrast": 51.00430674563987,
+        "pattern_variance": 702.4651529721697,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_050_2025-12-10_13-03-05-119_unscanned.jpg",
+      "qr_number": 50,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.308522715363339,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.005392878199180391,
+        "green_density": 0.10859700520833333,
+        "contrast": 69.88100052181207,
+        "pattern_variance": 429.7471107583649,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_051_2025-12-10_13-03-09-007_unscanned.jpg",
+      "qr_number": 51,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.3347437130750319,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.007513875173837427,
+        "green_density": 0.16298828125,
+        "contrast": 66.69108820369509,
+        "pattern_variance": 567.9031780652883,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_052_2025-12-10_13-03-15-052_unscanned.jpg",
+      "qr_number": 52,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.03582631024004539,
+        "green_density": 0.2586848958333333,
+        "contrast": 63.133593358938825,
+        "pattern_variance": 613.2022651878158,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_053_2025-12-10_13-03-17-850_unscanned.jpg",
+      "qr_number": 53,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.4,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.03553424941028682,
+        "green_density": 0.20444010416666666,
+        "contrast": 59.924592405756364,
+        "pattern_variance": 785.073896785827,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_054_2025-12-10_13-03-19-876_unscanned.jpg",
+      "qr_number": 54,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.1985738976774934,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0021425199062230804,
+        "green_density": 0.028642578125,
+        "contrast": 39.902140781863274,
+        "pattern_variance": 1221.539293861795,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_055_2025-12-10_13-03-30-049_unscanned.jpg",
+      "qr_number": 55,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.22300348838486772,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0017252879616288935,
+        "green_density": 0.04062825520833333,
+        "contrast": 25.616679376459253,
+        "pattern_variance": 472.6988975686554,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_056_2025-12-10_13-03-34-047_unscanned.jpg",
+      "qr_number": 56,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.21446450266064146,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0015653425550208387,
+        "green_density": 0.038349609375,
+        "contrast": 26.03219043487833,
+        "pattern_variance": 481.69794430818604,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_057_2025-12-10_13-03-34-693_unscanned.jpg",
+      "qr_number": 57,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.20765519962945778,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0018195576701918773,
+        "green_density": 0.035442708333333336,
+        "contrast": 26.19263933779699,
+        "pattern_variance": 496.0346341969172,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_058_2025-12-10_13-03-38-354_unscanned.jpg",
+      "qr_number": 58,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.15195683875351532,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0009832288062637015,
+        "green_density": 0.020247395833333334,
+        "contrast": 26.143850700963533,
+        "pattern_variance": 447.788852918508,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_059_2025-12-10_13-03-46-971_unscanned.jpg",
+      "qr_number": 59,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.19606078213098976,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.002753860667873319,
+        "green_density": 0.02900390625,
+        "contrast": 39.738139763673196,
+        "pattern_variance": 996.9213883596381,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_060_2025-12-10_13-03-47-763_unscanned.jpg",
+      "qr_number": 60,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.19072297127896864,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.002673894771046444,
+        "green_density": 0.024156901041666668,
+        "contrast": 38.37508868136164,
+        "pattern_variance": 1222.6964841714016,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_061_2025-12-10_13-03-50-127_unscanned.jpg",
+      "qr_number": 61,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.24229715829096238,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.01269365703713505,
+        "green_density": 0.023938802083333332,
+        "contrast": 28.818576427213177,
+        "pattern_variance": 322.92885355324074,
+        "dark_corners": 1
+      }
+    },
+    {
+      "filename": "QR_062_2025-12-10_13-03-54-804_unscanned.jpg",
+      "qr_number": 62,
+      "is_valid": false,
+      "qr_detected": false,
+      "qr_value": null,
+      "confidence": 0.37804625610803155,
+      "has_bounds": true,
+      "metrics": {
+        "edge_density": 0.0264037312631297,
+        "green_density": 0.030104166666666668,
+        "contrast": 27.342134309450056,
+        "pattern_variance": 600.0706241248422,
+        "dark_corners": 1
+      }
+    }
+  ]
+}
