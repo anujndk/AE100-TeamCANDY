@@ -1,0 +1,11 @@
+QR Code Detection #25
+===========================================
+Timestamp: 2025-12-10 13:02:48.127
+QR Data: (not decoded)
+
+GPS Coordinates:
+  Latitude:  37.91582450°
+  Longitude: -122.33528190°
+  Altitude:  19.50 m
+
+===========================================
