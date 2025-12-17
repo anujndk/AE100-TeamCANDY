@@ -1,1 +1,3 @@
+Run the following to see the output of the Pixhawk in the RasPi environment:
 
+mavproxy.py --master=/dev/ttyAMA0 --baudrate 921600
