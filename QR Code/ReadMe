@@ -1,1 +1,4 @@
+QR_Scanner was the code ran on the raspberry pi to output the GPS coordinates while flying and scan whenever it believes there is a qr code in frame of the camera. 
+Image files are saved to a designated folder on the RasPi called qr_detections, which store both the image data and the GPS data as well as the data of a succesful scan of the qr code.
 
+qr_postprocessor was ran to remove the trash images that the CV thought were QR code scans. The folder qr_processed_final sorts through all the succesful qr code images and crops them to frame. Additionally it creates a fusion image of the qr code using 1s and 0s to recreate the image of the qr code which can be sent using the LoRa radio.
