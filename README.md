@@ -1,6 +1,6 @@
 # 🚁 AE100 Team CANDY - Operation BEARTRAC
 
-**UCSD Aerospace Engineering AE100: Autonomous QR Code Hunting Quadcopter**
+**UC Berkeley Aerospace Engineering AE100: Autonomous QR Code Hunting Quadcopter**
 
 ## 📋 Files
 
